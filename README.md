@@ -1,3 +1,3 @@
 # Genetic-N-Queens
 
-This is a genetic solution to the N-Queens problem. It handles N = 100 pretty easily.
+This is a genetic algorithm solution to the N-Queens problem. It handles N = 100 pretty easily.
